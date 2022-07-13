@@ -1,7 +1,7 @@
 ---
 name: Ad hoc
 about: Ad hoc requests which are ill-defined
-title: "[AD HOC]"
+title: "[AD-HOC]"
 labels: ad-hoc
 assignees: ''
 
