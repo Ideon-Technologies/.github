@@ -22,3 +22,7 @@ assignees: ''
 ## TESTING STRATEGY
 < Describe how the changes or work will be tested >
 
+<!--
+issue_labeler_regex_version=1
+label_tags= #issue
+--!>

@@ -25,4 +25,7 @@ assignees: ''
   - Platform:
   - Subsystem:
 
-[Label tags: #bug]
+<!--
+issue_labeler_regex_version=1
+label_tags= #bug
+--!>
