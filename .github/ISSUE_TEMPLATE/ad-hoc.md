@@ -16,4 +16,7 @@ assignees: ''
 ## DEADLINE
 < Any time sensitive or deployment sensitive information that can be provided >
 
-[Label tags: #ad-hoc]
+<!--
+issue_labeler_regex_version=1
+label_tags= #ad-hoc
+--!>
