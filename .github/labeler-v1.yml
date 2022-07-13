@@ -1,0 +1,4 @@
+bug:
+    - '(\[BUG\]|\#bug)'
+ad-hoc:
+    - '(\[AD-HOC\]|\#ad-hoc)'
