@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Software bugs that require remedy.
-title: "[BUG]"
+title: ''
 labels: bug
 assignees: ''
 
