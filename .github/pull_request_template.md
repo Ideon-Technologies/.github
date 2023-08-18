@@ -33,11 +33,14 @@ Describe any additional manual tests performed and their results. If manual test
 
 ## Checklist
 - [ ] I have performed a self-review of my code.
-- [ ] I have updated the `requirements.txt` file, if required.
+- [ ] I have updated the `requirements.txt` file if required.
 - [ ] My code is easy to read and understand, particularly in complicated areas.
 - [ ] I have made corresponding changes to the documentation (README, docstrings, etc.).
 - [ ] New and existing unit tests pass locally with my changes.
 
 # Deployment and Release Checklist (if applicable)
-- [ ] Deployment scripts and configurations have been updated, if required.
+- [ ] Deployment scripts and configurations have been updated if required.
 - [ ] Any necessary environment variables or configuration changes have been documented.
+
+# Requests For Reviewers (Beyond Default Expectation)
+If the author wishes reviewers to exceed regular review expectations, please outline your requests here.
