@@ -32,7 +32,7 @@ Please describe the tests that you added or ran to verify your changes. If no te
 Describe any additional manual tests performed and their results. If manual testing is not applicable remove this section.
 
 ## Checklist
-- [ ] I have performed a self-review of my code.
+- [ ] I have performed a self-review of my code according to [code style guide](https://www.notion.so/ideon/RFC-14-Python-Style-Guide-b6c44ce825b74e5483fbc2ca6ef5f653).
 - [ ] I have updated the `requirements.txt` file if required.
 - [ ] I have made corresponding changes to the documentation (README, docstrings, etc.).
 - [ ] New and existing unit tests pass locally with my changes.
