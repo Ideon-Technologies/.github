@@ -4,6 +4,13 @@ Please provide a summary of the changes and the related issue. Include relevant 
 ## Jira Story
 Link to the corresponding Jira story: [DOP-1234](https://ideon-technologies.atlassian.net/browse/DOP-XXXX)
 
+## Screenshots
+Please add screenshots of the application before your changes with context for the problem, and after your changes with your proposed solution. You can add arrows or shapes to highlight the change/s being made.
+
+Before:
+
+After:
+
 ## Type of Change
 Please tag this PR with one or more of the following labels:
 - [ ] `bug`: non-breaking change that fixes an issue.
