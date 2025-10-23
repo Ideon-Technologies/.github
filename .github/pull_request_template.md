@@ -16,11 +16,7 @@ After:
 _(Provide a screenshot of the application after your changes)_
 
 ## Type of Change
-Please tag this PR with one or more of the following labels:
-- [ ] `bug`: non-breaking change that fixes an issue.
-- [ ] `enhancement`: non-breaking change that adds functionality.
-- [ ] `breaking-change`: fix or feature that would cause existing functionality to not work as expected.
-- [ ] `documentation`: this change requires a documentation update.
+Use side bar "Labels" dropdown ->
 
 # Testing
 Please describe the tests that you added or ran to verify your changes. If no tests were added or run, provide an explanation as to why.
