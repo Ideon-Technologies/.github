@@ -2,7 +2,7 @@
 Please provide a summary of the changes and the related issue. Include relevant motivation, context, and a high-level overview of the approach taken to address the problem.
 
 ## Jira Story
-Link to the corresponding Jira story: [DOP-1234](https://ideon-technologies.atlassian.net/browse/DOP-XXXX)
+Link to the corresponding Jira story: [DPD-1234](https://ideon-technologies.atlassian.net/browse/DPD-XXXX)
 
 ## Screenshots
 Please include screenshots of the application before and after your changes. Ensure to provide context for the problem and how your changes address it. Feel free to use arrows or shapes to highlight the areas affected.
@@ -25,20 +25,12 @@ Please describe the tests that you added or ran to verify your changes. If no te
 - [ ] I have added/updated unit tests for the changes made.
 - [ ] I have added/updated integration tests for the changes made.
 
-### Unit Tests Added/Updated
-- [ ] Test A: Description of test A
-- [ ] Test B: Description of test B
-- [ ] ...
-
-### Integration Tests Added/Updated
-- [ ] Test X: Description of test X
-- [ ] Test Y: Description of test Y
-- [ ] ...
 
 ### Manual Testing
 Describe any additional manual tests performed and their results. If manual testing is not applicable remove this section.
 
 ## Checklist
+- [ ] I have run a self-review [AI skill](https://github.com/Ideon-Technologies/ai-hub/tree/main/skills) before submitting this PR.
 - [ ] I have performed a self-review of my code according to [code style guide](https://www.notion.so/ideon/RFC-14-Python-Style-Guide-b6c44ce825b74e5483fbc2ca6ef5f653).
 - [ ] I have updated the `requirements.txt` file if required.
 - [ ] I have made corresponding changes to the documentation (README, docstrings, etc.).
