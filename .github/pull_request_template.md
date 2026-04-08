@@ -32,7 +32,7 @@ Describe any additional manual tests performed and their results. If manual test
 ## Checklist
 - [ ] I have run a self-review [AI skill](https://github.com/Ideon-Technologies/ai-hub/tree/main/skills) before submitting this PR.
 - [ ] For Python: I have performed a self-review of my code according to [code style guide](https://www.notion.so/ideon/RFC-14-Python-Style-Guide-b6c44ce825b74e5483fbc2ca6ef5f653).
-- [ ] For React: I have performed a self-review of my code according to [react rfc](https://www.notion.so/ideon/RFC-51-React-Handling-auth-errors-and-validation-1c426c37bff780278068ef2ca1c595f7)
+- [ ] For React: I have performed a self-review of my code according to [React RFC](https://www.notion.so/ideon/RFC-51-React-Handling-auth-errors-and-validation-1c426c37bff780278068ef2ca1c595f7)
 - [ ] I have updated the `requirements.txt` file, project configuration, lock files, Dockerfile if required.
 - [ ] I have made corresponding changes to the documentation (README, docstrings, etc.).
 - [ ] New and existing unit and integration tests pass with my changes.
